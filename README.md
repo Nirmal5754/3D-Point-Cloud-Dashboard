@@ -20,7 +20,8 @@ React + TypeScript + Vite dashboard for visualizing the provided 3D Bharat road 
 - TypeScript
 - Vite
 - Three.js
-- CSS
+- Tailwind CSS
+
 
 ## Setup
 
