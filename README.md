@@ -20,8 +20,14 @@ Open your terminal or command prompt and change directories into the project roo
 cd company_task
 ```
 
-3. Install Dependencies Run the package manager installation to download all required libraries, including React, Three.js, and Tailwind CSS:  Bashnpm install
-4. Run the Local Development ServerExecute the Vite build tool system to launch the application locally:  Bashnpm run dev
+3. Install Dependencies Run the package manager installation to download all required libraries, including React, Three.js, and Tailwind CSS:  
+```bash
+npm install
+ ```
+4. Run the Local Development ServerExecute the Vite build tool system to launch the application locally:  
+```bash 
+npm run dev 
+```
 5. Open the Application UI
 Once the terminal outputs the local address, open your web browser and navigate to:
 http://localhost:5173
