@@ -17,6 +17,7 @@ Ensure you have **Node.js** installed on your machine (version 18.0.0 or higher 
 Open your terminal or command prompt and change directories into the project root folder:
 
 ```bash
+Example:
 cd company_task
 ```
 
