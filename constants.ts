@@ -1,5 +1,5 @@
 export const POINT_CLOUD_URLS = [
-  '/Road_Design_Charholi.ply',
+  '/Public2/Road_Design_Charholi.ply',
   '/point-cloud/storage/road/Road_Design_Charholi.ply',
 ];
 
